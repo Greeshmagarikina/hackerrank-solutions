@@ -56,12 +56,12 @@ This repository contains my solutions to HackerRank problems solved using Python
 
 | Category        | Problems Solved |
 | --------------- | --------------- |
-| Python          | 0               |
+| Python          | 18              |
 | Problem Solving | 0               |
 | Data Structures | 0               |
 | SQL             | 0               |
 
-**Total Problems Solved:** 0
+**Total Problems Solved:** 18
 
 *(This table will be updated as I continue solving problems.)*
 
